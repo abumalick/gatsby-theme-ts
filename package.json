@@ -1,0 +1,34 @@
+{
+  "name": "gatsby-theme-ts",
+  "version": "0.0.1",
+  "description": "A gatsby theme to bootstrap a typescript site with ease",
+  "repository": "https://github.com/abumalick/gatsby-theme-ts",
+  "author": "abumalick",
+  "license": "MIT",
+  "main": "index.js",
+  "private": false,
+  "dependencies": {
+    "source-map-support": "^0.5.12",
+    "ts-node": "^8.3.0"
+  },
+  "devDependencies": {
+    "@graphql-codegen/cli": "^1.4.0",
+    "@graphql-codegen/typescript": "^1.4.0",
+    "@graphql-codegen/typescript-operations": "^1.4.0",
+    "@types/node": "^12.6.8",
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.5",
+    "@types/react-helmet": "^5.0.8",
+    "typescript": "^3.5.3"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "theme",
+    "ts",
+    "typescript"
+  ],
+  "peerDependencies": {
+    "gatsby": "^2.13.0"
+  }
+}
